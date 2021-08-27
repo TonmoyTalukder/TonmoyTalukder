@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Parvez's github stats](https://github-readme-stats.vercel.app/api?username=TonmoyTalukder&show_icons=true&theme=graywhite&hide=prs&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zishnav&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonmoyTalukder&layout=compact)
 <!--
 **TonmoyTalukder/TonmoyTalukder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
