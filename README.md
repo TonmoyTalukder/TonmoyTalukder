@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Tonmoy Talukder</h1>
-<h3 align="center">I'm From Dhaka, Bangladesh.</h3>
+<h3 align="center">🏡 I'm From Dhaka, Bangladesh.</h3>
 
-- 🔭 I’m currently studying Computer Science & Engineering in Ahsanullah University of Science and Technology 
-- 🌱 I’m currently learning Web Development, Data SCience, Machine Learning, Database Management 
+- 📚 I’m currently studying Computer Science & Engineering in Ahsanullah University of Science and Technology 
+- 💻 I’m currently learning Web Development, Data SCience, Machine Learning, Database Management 
 - 💬 Ask me about anything related Programing Languages I know.
 - 📫 How to reach me: LinkedIn, Facebook's Messenger, Email
 
