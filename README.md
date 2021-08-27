@@ -1,4 +1,10 @@
 ### Hi there 👋
+<h3 align="center">I'm From Bangladesh.</h3>
+
+🔭 I’m currently studying in Ahsanullah University of Science and Technology 
+- 🌱 I’m currently learning Web Development, Data SCience, Machine Learning, Database Management 
+- 💬 Ask me about anything related Programing Languages I know.
+- 📫 How to reach me: LinkedIn, Facebook's Messenger, Email
 
 <h3 align="center">
 <a href="https://www.linkedin.com/in/TonmoyTalukder/"> <img align="center" width="90" height="20" src="https://img.shields.io/badge/LinkedIn-profile-blue"> </a>
