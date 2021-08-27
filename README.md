@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">I'm Tonmoy Talukder</h1>
+<h1 align="center">Hi there 👋 I'm Tonmoy Talukder</h1>
 <h3 align="center">I'm From Dhaka, Bangladesh.</h3>
 
 - 🔭 I’m currently studying Computer Science & Engineering in Ahsanullah University of Science and Technology 
