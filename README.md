@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Tonmoy's github stats](https://github-readme-stats.vercel.app/api?TonmoyTalukder=pz1971&show_icons=true&theme=graywhite&hide=prs&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Zishnav=pz1971&layout=compact)
 <!--
 **TonmoyTalukder/TonmoyTalukder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
