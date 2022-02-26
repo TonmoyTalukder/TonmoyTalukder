@@ -7,6 +7,13 @@
 - 📫 How to reach me: LinkedIn, Facebook's Messenger, Email
 - 🌐 <b> Browse me on: </b> <a href="https://tonmoy-talukder.web.app/"> https://tonmoy-talukder.web.app/ </a>
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TonmoyTalukder&label=Profile%20views&color=0e75b6&style=flat-square" alt="TonmoyTalukder" /> </p>
+<p> <img src="https://img.shields.io/github/followers/TonmoyTalukder?style=social" alt="TonmoyTalukder" /> </p>
+
+
+
 <h3 align="center">
 <a href="https://www.linkedin.com/in/TonmoyTalukder/"> <img align="center" width="90" height="20" src="https://img.shields.io/badge/LinkedIn-profile-blue"> </a>
 <a href="https://www.facebook.com/tonmoytalukder2000"> <img align="center" width="100" height="20" src="https://img.shields.io/badge/Facebook-profile-blue"> </a>
