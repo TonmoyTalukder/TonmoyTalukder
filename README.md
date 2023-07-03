@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋 I'm Tonmoy Talukder</h1>
 <h3 align="center">🏡 I'm From Dhaka, Bangladesh.</h3>
 
-- 📚 I’m currently studying Computer Science & Engineering in Ahsanullah University of Science and Technology 
-- 💻 I’m currently learning Data Science, Machine Learning, Natural Language Processing, Computer Vision, Multimodal Deep Learning.
-- 💻 Previously I have learned Web Development, Database Management 
-- 💬 Ask me about anything related Programing Languages I know.
-- 📫 How to reach me: LinkedIn, Facebook's Messenger, Email
+- 📚 I graduated from Ahsanullah University of Science and Technology in Computer Science and Engineering.
+- 💻 I’m currently learning Data Science, Machine Learning, Natural Language Processing, Computer Vision, and Multimodal Deep Learning.
+- 💻 Previously I have learned Web Development, and Database Management.
+- 💬 Ask me about anything related to Programming Languages I know.
+- 📫 How to reach me: LinkedIn, Facebook Messenger, Email.
 - 🌐 <b> Browse me on: </b> <a href="https://tonmoy-talukder.web.app/"> https://tonmoy-talukder.web.app/ </a>
 
 
