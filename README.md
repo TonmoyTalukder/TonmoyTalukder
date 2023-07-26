@@ -5,7 +5,7 @@
 - 🔎  I’m currently doing research in Natural Language Processing, Computer Vision, and Multimodal Deep Learning.
 - 💻  My research interest is in Multimodal Deep Learning, Natural Language Processing, Computer Vision, Human-Computer Interaction, and Machine Learning.
 - 👨🏻‍💻  I am learning Data Science, Natural Language Processing, Computer Vision, and Deep Learning.
-- 🖥   Previously I have learned Web Development and Database Management.
+- 🖥   I have experience in Web Development and Database Management.
 - 💬  Ask me about anything related to my research and projects.
 - 📫  How to reach me: Email, LinkedIn, and Twitter.
 - 🌐 <b> Browse me on: </b> [https://tonmoytalukder.github.io/](https://tonmoytalukder.github.io/)
