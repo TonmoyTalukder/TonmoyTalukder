@@ -11,7 +11,7 @@
 - 💬  Ask me about anything related to my research and projects.
 - 📫  How to reach me: Email, LinkedIn, and Twitter.
 - 🌐 <b> Browse me on: </b> [https://tonmoytalukder.github.io/](https://tonmoytalukder.github.io/) or [https://tonmoytalukder.github.io/dev](https://tonmoytalukder.github.io/dev)
-- - 😄 Pronouns: [tɒnˈmɔɪ təˈluːkdər] 
+- 😄 Pronouns: [tɒnˈmɔɪ təˈluːkdər] 
 
 
 
