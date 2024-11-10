@@ -1,14 +1,17 @@
 <h1 align="center">Hi there 👋 I'm Tonmoy Talukder</h1>
 <h3 align="center">🏡 I'm From Dhaka, Bangladesh.</h3>
 
-- 📚  I graduated from Ahsanullah University of Science and Technology in Computer Science and Engineering.
+- 📚  I graduated with a bachelor's degree in Computer Science and Engineering from Ahsanullah University of Science and Technology.
+- 👨🏻‍💻 I'm a Full Stack Developper. I have expertise in MERN Stack, NextJs, PostgreSQL, Python development.
+- ⚙️ I like to code in TypeScript and Python mostly.
 - 🔎  I’m currently doing research in Natural Language Processing, Computer Vision, and Multimodal Deep Learning.
 - 💻  My research interest is in Multimodal Deep Learning, Natural Language Processing, Computer Vision, Human-Computer Interaction, and Machine Learning.
 - 👨🏻‍💻  I am learning Data Science, Natural Language Processing, Computer Vision, and Deep Learning.
 - 🖥   I have experience in Web Development and Database Management.
 - 💬  Ask me about anything related to my research and projects.
 - 📫  How to reach me: Email, LinkedIn, and Twitter.
-- 🌐 <b> Browse me on: </b> [https://tonmoytalukder.github.io/](https://tonmoytalukder.github.io/)
+- 🌐 <b> Browse me on: </b> [https://tonmoytalukder.github.io/](https://tonmoytalukder.github.io/) or [https://tonmoytalukder.github.io/dev](https://tonmoytalukder.github.io/dev)
+- - 😄 Pronouns: [tɒnˈmɔɪ təˈluːkdər] 
 
 
 
