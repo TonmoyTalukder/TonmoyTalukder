@@ -1,0 +1,38 @@
+name: Update README on Main Branch Changes
+
+on:
+  push:
+    branches:
+      - main # Triggers only when commits are pushed to the main branch
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Node.js (optional if you need JavaScript tooling)
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Update README
+        id: update_readme
+        run: |
+          # Get the current date in UTC
+          DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          
+          # Update the README.md file with the current date
+          sed -i "s/{{CURRENT_DATE}}/${DATE}/g" README.md
+
+      - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update README with latest date: ${{ steps.update_readme.outputs.DATE }}" || echo "No changes to commit"
+          git push
