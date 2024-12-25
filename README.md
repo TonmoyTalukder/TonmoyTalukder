@@ -67,6 +67,10 @@ For all my articles, visit my Medium profile: [medium.com/@tonmoytalukder](https
 ## 📊 **GitHub Stats**
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonmoyTalukder&theme=github_dark" alt="Contribution Overview" />
+</p>
+
+<p align="center">
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=TonmoyTalukder&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="Streak Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TonmoyTalukder&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
 <!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TonmoyTalukder&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
@@ -81,6 +85,7 @@ For all my articles, visit my Medium profile: [medium.com/@tonmoytalukder](https
   <img src="https://komarev.com/ghpvc/?username=TonmoyTalukder&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/TonmoyTalukder?style=social" alt="Followers" />
 </p>
+
 
 ---
 
