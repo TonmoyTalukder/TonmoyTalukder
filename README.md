@@ -67,8 +67,11 @@ For all my articles, visit my Medium profile: [medium.com/@tonmoytalukder](https
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TonmoyTalukder&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="Streak Stats" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=TonmoyTalukder&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="Streak Stats" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TonmoyTalukder&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TonmoyTalukder&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TonmoyTalukder&show_icons=true&theme=radical&hide=prs&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonmoyTalukder&layout=compact&theme=radical" alt="Top Languages" />
