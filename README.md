@@ -47,15 +47,15 @@ I am a **Full Stack Developer** with expertise in the **MERN Stack**, **Next.js*
 
 ## 📺 **Vlog Journal**
 
-Explore my curated YouTube playlist for learning and inspiration:
+Explore my YouTube playlist featuring tutorials and insights that I’ve personally developed:
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.youtube.com/playlist?list=PLrK96wPWZofvWkhdnObK7HyEQtEMRobXK" target="_blank">
     <img src="https://img.shields.io/badge/My-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Playlist">
   </a>
-</div>
+</div> -->
 
-- 📖 [Full Stack Development short Tutorials](https://www.youtube.com/playlist?list=PLrK96wPWZofvWkhdnObK7HyEQtEMRobXK)
+- 📖 [Full Stack Development Tutorials](https://www.youtube.com/playlist?list=PLrK96wPWZofvWkhdnObK7HyEQtEMRobXK)
 
 ---
 
