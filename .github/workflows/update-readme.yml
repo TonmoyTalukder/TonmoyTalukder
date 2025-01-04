@@ -24,8 +24,13 @@ jobs:
           # Get the current date in UTC
           DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
           
-          # Update the README.md file with the current date
-          sed -i "s/{{CURRENT_DATE}}/${DATE}/g" README.md
+          # Use a unique placeholder or line at the bottom of the README to update the date
+          if grep -q "Last updated on:" README.md; then
+            sed -i "s/Last updated on:.*/Last updated on: \`${DATE}\`/" README.md
+          else
+            echo "---" >> README.md
+            echo "_Last updated on: \`${DATE}\`_" >> README.md
+          fi
 
       - name: Commit and Push Changes
         env:
@@ -33,6 +38,12 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+          
+          # Check for changes and commit
           git add README.md
-          git commit -m "Update README with latest date: ${{ steps.update_readme.outputs.DATE }}" || echo "No changes to commit"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update README with latest date: ${{ steps.update_readme.outputs.DATE }}"
+            git push
+          fi
