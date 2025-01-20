@@ -93,8 +93,9 @@ For all my articles, visit my Medium profile: [medium.com/@tonmoytalukder](https
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TonmoyTalukder&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=TonmoyTalukder&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" /> -->
 <!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TonmoyTalukder&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+<img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=TonmoyTalukder&theme=react" width="51%" alt="Streak Stats" />
 </p>
 
 <p align="center">
