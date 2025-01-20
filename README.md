@@ -23,6 +23,14 @@ I am a **Full Stack Developer** with expertise in the **MERN Stack**, **Next.js*
 
 ---
 
+## 🛠️ **LeetCode Stats**
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/zishnav" alt="LeetCode Stats">
+</p>
+
+---
+
 ## 🛠️ **Technologies & Tools**
 
 <p align="center">
@@ -62,7 +70,7 @@ Explore my YouTube playlist featuring tutorials and insights that I’ve persona
 ## 📝 **Blog Posts**
 
 - 🌟 [How to visualize visitor statistics in React and Next Js websites?](https://tonmoytalukder.medium.com/how-to-visualize-visitor-statistics-in-react-and-next-js-websites-46be05b29f8d)  
-_RevolverMap visitor statistics solution for Next.js._
+  _RevolverMap visitor statistics solution for Next.js._
 
 For all my articles, visit my Medium profile: [medium.com/@tonmoytalukder](https://medium.com/@tonmoytalukder)
 
@@ -99,24 +107,21 @@ For all my articles, visit my Medium profile: [medium.com/@tonmoytalukder](https
   <img src="https://img.shields.io/github/followers/TonmoyTalukder?style=social" alt="Followers" />
 </p>
 
-
 ---
 
 ## 📌 **Quick Links**
 
-- 🌐 Portfolio: [https://tonmoytalukder.github.io/](https://tonmoytalukder.github.io/) or [tonmoytalukder.github.io/dev](https://tonmoytalukder.github.io/dev)  
-- ✉️ Email: [tonmoytalukder2000@gmail.com](mailto:tonmoytalukder2000@gmail.com)  
+- 🌐 Portfolio: [https://tonmoytalukder.github.io/](https://tonmoytalukder.github.io/) or [tonmoytalukder.github.io/dev](https://tonmoytalukder.github.io/dev)
+- ✉️ Email: [tonmoytalukder2000@gmail.com](mailto:tonmoytalukder2000@gmail.com)
 
 ---
 
 _Last updated on: `{{CURRENT_DATE}}`_
 
-
-<!-- 
+<!--
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TonmoyTalukder&label=Profile%20views&color=0e75b6&style=flat-square" alt="TonmoyTalukder" /> </p>
 <p> <img src="https://img.shields.io/github/followers/TonmoyTalukder?style=social" alt="TonmoyTalukder" /> </p> -->
-
 
 <!-- <h3 align="center">
   <a href="https://codeforces.com/profile/Zishnav"> <img align="center" width="90" height="20" src="https://img.shields.io/badge/dynamic/json?color=blue&label=Codeforces&query=%24.result%5B%3A1%5D.maxRating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dpz1971"> </a>
@@ -130,7 +135,6 @@ _Last updated on: `{{CURRENT_DATE}}`_
 <!--  <h1 align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=TonmoyTalukder&theme=onedark"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=TonmoyTalukder&theme=onedark"> </a>
 </h1>  -->
-
 
 <!--  ![Tonmoy's github stats](https://github-readme-stats.vercel.app/api?username=TonmoyTalukder&show_icons=true&theme=graywhite&hide=prs&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonmoyTalukder&layout=compact) -->
