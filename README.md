@@ -23,7 +23,7 @@ I am a **Full Stack Developer** with expertise in the **MERN Stack**, **Next.js*
 
 ---
 
-## 🛠️ **LeetCode Stats**
+## 🏆 **LeetCode Stats**
 
 <p align="center">
  <a href="https://leetcode.com/zishnav" target="_blank">
