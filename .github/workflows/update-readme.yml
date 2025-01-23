@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main # Triggers only when commits are pushed to the main branch
-  schedule:
-    - cron: '0 0 * * *' # Optionally, run daily at midnight UTC
 
 jobs:
   update-readme:
@@ -15,34 +13,24 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Update README with LeetCode Stats
+      - name: Set Up Node.js (optional if you need JavaScript tooling)
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Update README
         id: update_readme
         run: |
-          # Define the LeetCode username
-          LEETCODE_USERNAME="zishnav"
-
-          # Fetch the LeetCode stats card URL
-          LEETCODE_CARD_URL="https://leetcard.jacoblin.cool/${LEETCODE_USERNAME}"
-
-          # Generate the updated LeetCode stats markdown
-          LEETCODE_MARKDOWN="![LeetCode Stats](${LEETCODE_CARD_URL})"
-
-          # Add the stats to the README
-          if grep -q "LeetCode Stats" README.md; then
-            sed -i "s|!\[LeetCode Stats\](.*)|${LEETCODE_MARKDOWN}|" README.md
-          else
-            echo "---" >> README.md
-            echo "### LeetCode Stats" >> README.md
-            echo "${LEETCODE_MARKDOWN}" >> README.md
-          fi
-
-          # Add the last updated timestamp
+          # Get the current date in UTC
           DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          
+          # Use a unique placeholder or line at the bottom of the README to update the date
           if grep -q "Last updated on:" README.md; then
             sed -i "s/Last updated on:.*/Last updated on: \`${DATE}\`/" README.md
           else
             echo "---" >> README.md
             echo "_Last updated on: \`${DATE}\`_" >> README.md
+          fi
 
       - name: Commit and Push Changes
         env:
@@ -56,6 +44,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update README with LeetCode stats and timestamp"
+            git commit -m "Update README with latest date: ${{ steps.update_readme.outputs.DATE }}"
             git push
           fi
