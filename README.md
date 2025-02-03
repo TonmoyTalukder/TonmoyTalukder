@@ -122,8 +122,6 @@ For all my articles, visit my Medium profile: [medium.com/@tonmoytalukder](https
 _Last updated on: `2025-01-23 23:44:01 UTC`
 
 <!--
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TonmoyTalukder&label=Profile%20views&color=0e75b6&style=flat-square" alt="TonmoyTalukder" /> </p>
 <p> <img src="https://img.shields.io/github/followers/TonmoyTalukder?style=social" alt="TonmoyTalukder" /> </p> -->
 
 <!-- <h3 align="center">
