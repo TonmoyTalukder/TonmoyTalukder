@@ -13,6 +13,7 @@
 
 I am a **Full Stack Developer** with expertise in the **MERN Stack**, **Next.js**, and **PostgreSQL**, complemented by a passion for **Machine Learning**. I enjoy building scalable web applications, crafting intuitive user interfaces, and exploring cutting-edge AI technologies.
 
+- 💼 **Software Engineer** at WorldTech, Dhaka.
 - 🎓 Graduated with a Bachelor's in **Computer Science and Engineering** from **Ahsanullah University of Science and Technology**.
 - 👨‍💻 Specializing in **MERN Stack**, **Next.js**, **PostgreSQL**, and **Python**.
 - 🔬 Researching **Natural Language Processing**, **Computer Vision**, and **Multimodal Deep Learning**.
