@@ -11,18 +11,23 @@
 
 ## 📝 **About Me**
 
-I am a **Full Stack Developer** with expertise in the **MERN Stack**, **Next.js**, and **PostgreSQL**, complemented by a passion for **Machine Learning**. I enjoy building scalable web applications, crafting intuitive user interfaces, and exploring cutting-edge AI technologies.
+I am a **Software Engineer** and **Computer Science & Engineering graduate** from **Ahsanullah University of Science and Technology (AUST)**, with a strong foundation in **full-stack development**, **distributed systems**, and **applied machine learning**.  
 
-- 💼 **Software Engineer** at WorldTech, Dhaka.
-- 🎓 Graduated with a Bachelor's in **Computer Science and Engineering** from **Ahsanullah University of Science and Technology**.
-- 👨‍💻 Specializing in **MERN Stack**, **Next.js**, **PostgreSQL**, and **Python**.
-- 🔬 Researching **Natural Language Processing**, **Computer Vision**, and **Multimodal Deep Learning**.
-- 🖥️ Proficient in **Web Development**, **Database Management**, and coding in **TypeScript** and **Python**.
-- 🌱 Continuously learning **NLP**, **Data Science**, **Deep Learning**, and other advanced AI technologies.
-- 💬 Happy to discuss **projects**, **research**, and **career opportunities**.
-- 😄 Pronunciation: [tɒnˈmɔɪ təˈluːkdər] (Ton-moy Tal-luk-der)
+I specialize in building **scalable, production-grade applications** using **Go, NestJS, React.js, Next.js, PostgreSQL, and Docker**. I have hands-on experience with **microservices**, **gRPC communication**, and **cloud-native architectures** on platforms like **Google Cloud (GCP)**. My passion lies in designing clean backend services, containerized workflows, and efficient data models with tools like **GORM, Prisma, and MongoDB**.  
+
+Beyond software engineering, I’m deeply interested in the **intersection of AI and systems engineering**. My academic research explored **low-resource language processing**, and I have built applied **machine learning models** with **PyTorch, TensorFlow, Scikit-learn, and OpenCV**.  
+
+- 💼 **Software Engineer** (Full-Stack & Distributed Systems)  
+- 🎓 Graduate in **Computer Science and Engineering (CSE)** from **AUST**  
+- 👨‍💻 Core Stack: **Go, NestJS, React.js, Next.js, PostgreSQL, Docker, GCP**  
+- 🔬 Research & Interests: **NLP, HCI, AI-driven Product Engineering, Multimodal Deep Learning**  
+- 🖥️ Skilled in **Microservices**, **Cloud-Native Workflows**, **gRPC/GraphQL APIs**, and **Database Design**  
+- 🌱 Continuously exploring **System Design**, **Performance Optimization**, and **Applied AI**  
+- 💬 Open to collaboration on **distributed systems, AI products, and impactful engineering projects**  
+- 😄 Pronunciation: [tɒnˈmɔɪ təˈluːkdər] (Ton-moy Tal-luk-der)  
 
 ---
+
 
 ## 🏆 **LeetCode Stats**
 
@@ -36,7 +41,7 @@ I am a **Full Stack Developer** with expertise in the **MERN Stack**, **Next.js*
 
 ## 🛠️ **Technologies & Tools**
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -52,6 +57,46 @@ I am a **Full Stack Developer** with expertise in the **MERN Stack**, **Next.js*
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p> -->
+
+<p align="center">
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<!--   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+ -->
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Chi-00B4AB?style=for-the-badge&logo=go&logoColor=white" alt="Chi (Go)" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+
+  <!-- Databases & ORMs -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GORM" />
+
+  <!-- DevOps & Cloud -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+
+  <!-- APIs & Communication -->
+  <img src="https://img.shields.io/badge/gRPC-4A154B?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+
+  <!-- ML & AI -->
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> -->
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
 ---
